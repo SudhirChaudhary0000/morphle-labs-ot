@@ -19,8 +19,8 @@ This is a simple Flask application that displays system information and top outp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/SudhirChaudhary0000/morphle-labs-ot.git
+   cd morphle-labs-ot
    ```
 
 2. Install the required packages:
